@@ -1,4 +1,3 @@
 # GitTutorial
 
-## hello, world!
-## HyeonJi
+- hi h hi~
